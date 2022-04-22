@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "await-exec": "^0.1.2",
+    "poisson-process": "^1.0.1",
+    "talkify-tts": "^3.9.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
